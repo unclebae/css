@@ -95,3 +95,4 @@ css 를 이용하여 html 에 스타일을 먹일때 동일한 문자열로 시�
 
 결과를 한번 보겠습니다. 
 
+![css_wildcard.png](./css_wildcard.png)
